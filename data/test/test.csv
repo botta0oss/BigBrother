@@ -1,0 +1,126 @@
+message_id,message,etichetta,sender_id,nome,cognome,nome_vero,date,media,risposta
+1,"Ciao a tutti! Pronto per il secondo anno? 🙄 Sono già stanca di studiare...",['Neutral'],1000000006,Fra_Dancer,Marrone,Francesca,2024-09-02 10:05:12+00:00,,
+2,"Ciao Fra! Anch'io! Ma almeno ci rivediamo in chat 😂",['Positive'],1000000005,Chia_Valley,Gialli,Chiara,2024-09-02 10:07:30+00:00,,
+3,"Ciao raga, chi ha la lista dei libri per favore? Non l'ho trovata sul sito.😩",['Neutral'],1000000003,Gabe_7,Verdi,Gabriele,2024-09-02 10:10:05+00:00,,
+4,"Ce l'ho io, aspetta che la cerco sul tablet e la posto. Stasera forse vado al campo, qualcuno viene?",['Positive'],1000000002,Matt_King,Bianchi,Matteo,2024-09-02 10:12:45+00:00,,
+5,"Io no, devo finire di sistemare la mia stanza che è un casino atomico",['Neutral'],1000000004,Simo_Rap,Neri,Simone,2024-09-02 10:15:01+00:00,,
+6,"Qualcuno ha capito il problema di mate per domani? Quello con le frazioni...",['Neutral'],1000000001,LucaM,Rossi,Luca,2024-09-02 10:20:18+00:00,,
+7,"Sì l'ho capito. Poi te lo spiego io Luca.",['Positive'],1000000005,Chia_Valley,Gialli,Chiara,2024-09-02 10:22:00+00:00,
+8,"Grazie Chiara! Sei la migliore",['Very Positive'],1000000001,LucaM,Rossi,Luca,2024-09-02 10:23:15+00:00,7
+9,"Anche io ho problemi con le frazioni... Che noia la scuola",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-09-02 10:25:00+00:00,,
+10,"Ma state calmi, siamo al primo giorno! Ragazzi, devo ripassare storia antica, aiuto!",['Positive'],1000000006,Fra_Dancer,Marrone,Francesca,2024-09-02 10:30:10+00:00,,
+11,"Ma sì Fra, tranquilla. Chi ha fatto i compiti delle vacanze di inglese? Ho lasciato tutto all'ultimo",['Neutral'],1000000003,Gabe_7,Verdi,Gabriele,2024-09-02 10:32:00+00:00,,
+12,"Ovvio che li ho fatti, non sono come voi", ['Positive'],1000000002,Matt_King,Bianchi,Matteo,2024-09-02 10:35:00+00:00,,
+13,"Uff che palle! Io stasera FIFA 25 chi ci sta?",['Neutral'],1000000004,Simo_Rap,Neri,Simone,2024-09-02 10:36:10+00:00,,
+14,"Io ci sono, dopo cena!",['Positive'],1000000002,Matt_King,Bianchi,Matteo,2024-09-02 10:37:05+00:00,
+15,"Ragazzi, vi ricordo il riassunto di geografia per giovedì! Non fate i pigri...",['Neutral'],1000000005,Chia_	Valley,Gialli,Chiara,2024-09-03 14:15:20+00:00,,
+16,"Ah già! Grazie Chiara! Io me lo dimentico sempre!",['Positive'],1000000006,Fra_Dancer,Marrone,Francesca,2024-09-03 14:17:35+00:00,,
+17,"Dav, hai visto l'ultimo episodio di Star Wars Visions?",['Positive'],1000000001,LucaM,Rossi,Luca,2024-09-03 14:20:01+00:00,,
+18,"No Luca, ancora no. Te ne parlo domani a scuola",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-09-03 14:21:40+00:00,
+19,"Che barba la scuola nuova eh, prof nuova di scienze? Nooo",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-09-03 16:30:10+00:00,,
+20,"Sì, sembra tosta, ma magari è brava!",['Neutral'],1000000005,Chia_Valley,Gialli,Chiara,2024-09-03 16:32:00+00:00,
+21,"Uff la prof di arte ha dato il primo disegno. Che fatica!",['Negative'],1000000006,Fra_Dancer,Marrone,Francesca,2024-09-04 11:00:00+00:00,,
+22,"Ma no, è figo disegnare! Non è mica difficile, basta metterci un po' di fantasia",['Positive'],1000000001,LucaM,Rossi,Luca,2024-09-04 11:02:15+00:00,,
+23,"Ma Luca che dici, sei bravo tu a fare i disegnetti, noi normali fatichiamo",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-09-04 11:04:30+00:00,22
+24,"Giusto, Mica tutti hanno il tuo super potere di perdere tempo sui fumetti, ahahah",['Negative'],1000000004,Simo_Rap,Neri,Simone,2024-09-04 11:06:00+00:00,22
+25,"Beh, ognuno ha i suoi hobby. A me piacciono i disegni di Luca",['Positive'],1000000005,Chia_Valley,Gialli,Chiara,2024-09-04 11:08:10+00:00,
+26,"Chiara tu dici sempre così, ma non puoi difenderlo per sempre eh",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-09-04 11:10:00+00:00,25
+27,"Ma quale difesa? Ho solo detto la mia opinione.",['Neutral'],1000000005,Chia_Valley,Gialli,Chiara,2024-09-04 11:12:00+00:00,26
+28,"Chi è pronto per il compito di storia? Io non ho ancora studiato!",['Neutral'],1000000006,Fra_Dancer,Marrone,Francesca,2024-09-05 15:30:00+00:00,,
+29,"Manco io, che scocciatura. Ma l'impero romano è la cosa più noiosa di sempre.",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-09-05 15:32:00+00:00,,
+30,"Per Luca sarà facile, lui si ricorda tutto", ['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-09-05 15:35:00+00:00,,
+31,"Per forza, sta sempre a leggere libri. Anche di storia immagino",['Negative'],1000000004,Simo_Rap,Neri,Simone,2024-09-05 15:37:00+00:00,30
+32,"Ehm, no. non proprio sempre. Leggo soprattutto fumetti fantasy",['Neutral'],1000000001,LucaM,Rossi,Luca,2024-09-05 15:38:30+00:00,
+33,"Allora non ti sentirai la testa così grossa se sbagli qualche domanda, no?",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-09-05 15:40:00+00:00,32
+34,"Matteo, dai. È solo un compito. Tutti possiamo sbagliare",['Neutral'],1000000005,Chia_Valley,Gialli,Chiara,2024-09-05 15:42:00+00:00,33
+35,"Vabbè raga, stasera pizza?",['Positive'],1000000003,Gabe_7,Verdi,Gabriele,2024-09-06 18:00:00+00:00,,
+36,"Ottima idea Gabe! A me va benissimo.",['Positive'],1000000004,Simo_Rap,Neri,Simone,2024-09-06 18:02:15+00:00,
+37,"Anche a me! Ma dove?",['Positive'],1000000006,Fra_Dancer,Marrone,Francesca,2024-09-06 18:03:30+00:00,,
+38,"Chi non viene è un secchione, ahahah",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-09-06 18:05:00+00:00,,
+39,"Luca che fai? Non rispondi?",['Neutral'],1000000005,Chia_Valley,Gialli,Chiara,2024-09-06 18:07:00+00:00,
+40,"Forse sta leggendo uno dei suoi libri e non può essere disturbato...",['Negative'],1000000004,Simo_Rap,Neri,Simone,2024-10-02 09:10:20+00:00,,
+41,"O magari sta disegnando un nuovo supereroe con gli occhiali giganti",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-10-02 09:12:00+00:00,,
+42,"Non venite con ste battute, ha detto la prof di fare una presentazione a coppie per scienze. Chi fa con chi?",['Neutral'],1000000006,Fra_Dancer,Marrone,Francesca,2024-10-02 09:15:30+00:00,,
+43,"Io e Matt_King, ovvio!",['Positive'],1000000003,Gabe_7,Verdi,Gabriele,2024-10-02 09:17:00+00:00,
+44,"Sì, siamo i migliori. Luca, tu la fai con chi?",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-10-02 09:18:30+00:00,
+45,"Io, uhm, non lo so ancora. Forse con Davide?",['Neutral'],1000000001,LucaM,Rossi,Luca,2024-10-02 09:20:00+00:00,
+46,"Mah, Davide sta già con me. Ti tocca fare da solo mi sa, Luca",['Negative'],1000000004,Simo_Rap,Neri,Simone,2024-10-02 09:22:15+00:00,
+47,"Simo, io non faccio con te. Volevo chiederlo a Luca se era libero.",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-10-02 09:23:30+00:00,
+48,"Davide, facciamo insieme allora?",['Positive'],1000000001,LucaM,Rossi,Luca,2024-10-02 09:25:00+00:00,47
+49,"Va bene, parliamone dopo scuola.",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-10-02 09:26:10+00:00,48
+50,"Ma dai Davide, non fargli troppe domande che sennò si blocca e non finiamo più", ['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-10-02 09:28:00+00:00,49
+51,"Sì, poi inizia con tutte le sue spiegazioni complicate",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-10-02 09:29:10+00:00,50
+52,"Non è vero. Luca spiega bene.",['Positive'],1000000005,Chia_Valley,Gialli,Chiara,2024-10-02 09:30:30+00:00,51
+53,"Chiara, non fare sempre la mamma protettiva!",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-10-02 09:32:00+00:00,52
+54,"Stiamo parlando di una presentazione di scienze, possiamo stare seri?",['Neutral'],1000000006,Fra_Dancer,Marrone,Francesca,2024-10-02 09:33:15+00:00,,
+55,"Ok, ok. Domani dobbiamo decidere l'argomento. Forse sui vulcani?",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-10-02 09:35:00+00:00,,
+56,"A me vanno bene i vulcani. Ho anche dei libri interessanti a casa.",['Positive'],1000000001,LucaM,Rossi,Luca,2024-10-02 09:36:10+00:00,55
+57,"Eh certo, tu hai libri su tutto Luca, un po' meno di chiacchiere a vuoto e più sostanza, no?",['Negative'],1000000004,Simo_Rap,Neri,Simone,2024-11-05 14:00:00+00:00,
+58,"Cosa c'entra adesso? Vuole solo aiutare",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-11-05 14:02:00+00:00,57
+59,"Ma Chiara è solo una battuta! Sei troppo seria a volte",['Neutral'],1000000003,Gabe_7,Verdi,Gabriele,2024-11-05 14:03:30+00:00,58
+60,"Stasera c'è la partita! Juve-Inter! Forza Juve!!",['Positive'],1000000002,Matt_King,Bianchi,Matteo,2024-11-05 18:30:00+00:00,,
+61,"Noooo, forza Inter sempre!",['Positive'],1000000004,Simo_Rap,Neri,Simone,2024-11-05 18:31:00+00:00,
+62,"Ragazzi, la prof di inglese ha detto che chi non ha ancora consegnato il tema sul 'My favourite place' è in ritardo grave",['Neutral'],1000000005,Chia_Valley,Gialli,Chiara,2024-11-06 10:00:10+00:00,,
+63,"Oddio, non l'ho fatto!",['Negative'],1000000006,Fra_Dancer,Marrone,Francesca,2024-11-06 10:01:30+00:00,,
+64,"Neanche io! Chi me lo passa velocemente per dargli un'occhiata?",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-11-06 10:02:45+00:00,,
+65,"Io l'ho consegnato lunedì. Parlava della mia stanza piena di fumetti",['Neutral'],1000000001,LucaM,Rossi,Luca,2024-11-06 10:04:00+00:00,,
+66,"Luca, che ti è venuto in mente? La tua stanza è un rifugio di nerd! A noi servono idee VERE", ['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-11-06 10:06:00+00:00,65
+67,"Infatti, i compiti di Luca non servono a niente, sono solo roba da sfigati",['Negative'],1000000004,Simo_Rap,Neri,Simone,2024-11-06 10:07:30+00:00,66
+68,"Ma cosa dite? Il tema di Luca era originale e ben scritto, la prof lo ha apprezzato",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-11-06 10:09:00+00:00,67
+69,"Sì certo, come no! Chiara che ci difende sempre il genio",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-11-06 10:11:00+00:00,68
+70,"Non vi intromettete in quello che dico. Mi pare che ognuno possa avere la sua opinione",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-11-06 10:13:00+00:00,69
+71,"Comunque, chi ha finito storia? Non riesco a capire i concetti!",['Neutral'],1000000006,Fra_Dancer,Marrone,Francesca,2024-11-07 15:00:00+00:00,,
+72,"Io sono messo malissimo pure. Luca, tu che dici?",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-11-07 15:02:00+00:00,,
+73,"Beh, magari posso darvi una mano a capire qualche parte. Non so.",['Neutral'],1000000001,LucaM,Rossi,Luca,2024-11-07 15:03:30+00:00,,
+74,"Ma figurati! Se parli tu non finiamo più e ti addormenti sulla storia, ahah",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-11-07 15:05:00+00:00,73
+75,"Dai Matteo! Non è carino",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-11-07 15:06:30+00:00,74
+76,"Il prof di musica ci ha chiesto di prepararci per lo spettacolo di Natale! Canteremo!",['Positive'],1000000006,Fra_Dancer,Marrone,Francesca,2024-12-03 11:00:00+00:00,,
+77,"Oddio no! Canto malissimo!",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-12-03 11:02:00+00:00,,
+78,"Sarà un disastro se canta anche Luca. Sai che vergogna",['Negative'],1000000004,Simo_Rap,Neri,Simone,2024-12-03 11:04:00+00:00,,
+79,"Ma perché dite così? Luca ha una bella voce! E se leggerà il testo, lo farà bene",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-12-03 11:05:30+00:00,78
+80,"Ma Luca balbetta! Imbarazzo totale",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-12-03 11:07:00+00:00,79
+81,"Non è vero che balbetta. È solo un po' più lento a parlare a volte",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-12-03 11:09:00+00:00,80
+82,"Che ansia per lo spettacolo di Natale... almeno sarò in fila dietro",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-12-03 11:10:30+00:00,,
+83,"Ma si dai, è per divertirci un po'. Non è una gara",['Positive'],1000000006,Fra_Dancer,Marrone,Francesca,2024-12-03 11:12:00+00:00,,
+84,"Ragazzi, la prof di italiano ha detto che Luca leggerà il nostro racconto in classe giovedì...",['Neutral'],1000000005,Chia_Valley,Gialli,Chiara,2024-12-09 14:00:00+00:00,,
+85,"Cosa?! Luca? Ma fa leggere a lui che è lentissimo e noioso!",['Very Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-12-09 14:02:00+00:00,84
+86,"Infatti! Io mi addormento sicuro. Ci impiega mezz'ora per una frase",['Very Negative'],1000000003,Gabe_7,Verdi,Gabriele,2024-12-09 14:03:30+00:00,85
+87,"Ma perché dite cattiverie? Non è vero! Anzi, legge molto espressivamente!",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-12-09 14:05:00+00:00,86
+88,"No, Simo ha ragione. Sarà un supplizio. Poi si imbarazza e diventa tutto rosso, ahaha",['Very Negative'],1000000004,Simo_Rap,Neri,Simone,2024-12-09 14:06:30+00:00,87
+89,"Smettetela! Non è giusto prendersela sempre con lui!",['Very Negative'],1000000005,Chia_Valley,Gialli,Chiara,2024-12-09 14:08:00+00:00,88
+90,"Grazie Chiara...",['Neutral'],1000000001,LucaM,Rossi,Luca,2024-12-09 14:09:00+00:00,89
+91,"Lasciali perdere Luca, non capiscono",['Positive'],1000000005,Chia_Valley,Gialli,Chiara,2024-12-09 14:10:00+00:00,90
+92,"Domani verifica di matematica! Mi sto preparando con Dav. Aiuto",['Neutral'],1000000006,Fra_Dancer,Marrone,Francesca,2024-12-10 17:00:00+00:00,,
+93,"Anche io sto ripassando. Meno male che ho Luca che mi aiuta a volte",['Positive'],1000000007,Dav_Tech,Blu,Davide,2024-12-10 17:02:00+00:00,,
+94,"Ma figurati Davide, gli vuoi dare una mano pure a perdere tempo?",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2024-12-10 17:04:00+00:00,93
+95,"No, mi ha spiegato le espressioni",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2024-12-10 17:05:00+00:00,94
+96,"Chiara, ci vediamo prima della scuola per storia?",['Positive'],1000000006,Fra_Dancer,Marrone,Francesca,2025-01-08 08:00:00+00:00,,
+97,"Certo Fra! Verso le 7.50 va bene?",['Positive'],1000000005,Chia_Valley,Gialli,Chiara,2025-01-08 08:01:30+00:00,96
+98,"Ma che bravine, le secchione della classe! Ahahaha",['Negative'],1000000004,Simo_Rap,Neri,Simone,2025-01-08 08:03:00+00:00,,
+99,"Lasciale stare Simone, invidioso che loro studiano e tu no?",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2025-01-08 08:04:30+00:00,98
+100,"Parli tu che difendi sempre Luca, il secchione capo",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2025-01-08 08:06:00+00:00,99
+101,"Non è giusto chiamarlo così, è un bravo ragazzo e molto intelligente. Voi dovreste imparare da lui",['Very Negative'],1000000005,Chia_Valley,Gialli,Chiara,2025-01-08 08:08:00+00:00,100
+102,"Ma chi se ne frega se è intelligente se poi non riesce a finire una frase?",['Very Negative'],1000000003,Gabe_7,Verdi,Gabriele,2025-01-08 08:10:00+00:00,101
+103,"State esagerando ragazzi, sul serio",['Negative'],1000000006,Fra_Dancer,Marrone,Francesca,2025-01-08 08:11:30+00:00,102
+104,"Lasciate Luca in pace. Ha il diritto di parlare come vuole. Non vi ha fatto nulla",['Very Negative'],1000000005,Chia_Valley,Gialli,Chiara,2025-01-08 08:13:00+00:00,102
+105,"Basta, sono stanco di sentirvi. Cosa vi ho fatto di male?",['Negative'],1000000001,LucaM,Rossi,Luca,2025-01-08 08:14:30+00:00,104
+106,"Uhh, Luca si lamenta! Che sensibile che sei, come una bambina",['Very Negative'],1000000002,Matt_King,Bianchi,Matteo,2025-01-08 08:16:00+00:00,105
+107,"Matteo, non è il caso",['Negative'],1000000007,Dav_Tech,Blu,Davide,2025-01-08 08:17:30+00:00,106
+108,"Non mi aspettavo da te, Davide, che difendi un piagnucolone",['Negative'],1000000003,Gabe_7,Verdi,Gabriele,2025-01-08 08:19:00+00:00,107
+109,"Mi state dando sui nervi. Davvero.",['Very Negative'],1000000001,LucaM,Rossi,Luca,2025-01-08 08:20:00+00:00,108
+110,"Non te la prendere Luca, loro sono solo gelosi",['Positive'],1000000005,Chia_Valley,Gialli,Chiara,2025-01-08 08:21:00+00:00,109
+111,"Chiara e Luca, due pisolini. Che si tengono per mano",['Very Negative'],1000000004,Simo_Rap,Neri,Simone,2025-01-08 08:22:30+00:00,110
+112,"Sono i due sfigati della scuola. Viva Luca e Chiara!",['Very Negative'],1000000002,Matt_King,Bianchi,Matteo,2025-02-05 15:00:00+00:00,111
+113,"Fate schifo",['Very Negative'],1000000005,Chia_Valley,Gialli,Chiara,2025-02-05 15:01:00+00:00,112
+114,"Non puoi parlarci così, non capiscono niente",['Very Negative'],1000000001,LucaM,Rossi,Luca,2025-02-05 15:02:00+00:00,113
+115,"Ti abbiamo sentito tutti parlare in classe oggi Luca, un incubo!",['Very Negative'],1000000003,Gabe_7,Verdi,Gabriele,2025-02-05 15:03:00+00:00,114
+116,"Ma cosa vuole dire, stavi solo leggendo! Sei cattivo, Gabriele",['Negative'],1000000005,Chia_Valley,Gialli,Chiara,2025-02-05 15:04:30+00:00,115
+117,"Lascia stare Chiara, non vale la pena",['Negative'],1000000001,LucaM,Rossi,Luca,2025-02-05 15:05:30+00:00,116
+118,"Dai che noia 'sti messaggi. Dobbiamo studiare",['Neutral'],1000000006,Fra_Dancer,Marrone,Francesca,2025-02-05 15:07:00+00:00,,
+119,"Che ridicoli che siete, a prendervela con uno più piccolo!",['Very Negative'],1000000004,Simo_Rap,Neri,Simone,2025-02-05 15:08:30+00:00,
+120,"Simo, ma che dici?!",['Negative'],1000000002,Matt_King,Bianchi,Matteo,2025-02-05 15:10:00+00:00,119
+121,"Mi sono sbagliato a scrivere, scusate! Volevo dire più forte",['Neutral'],1000000004,Simo_Rap,Neri,Simone,2025-02-05 15:11:00+00:00,120
+122,"Dai basta, non è divertente. State esagerando adesso",['Negative'],1000000006,Fra_Dancer,Marrone,Francesca,2025-02-05 15:12:30+00:00,121
+123,"Matteo, lascia stare Luca. È un bravo ragazzo, davvero",['Neutral'],1000000007,Dav_Tech,Blu,Davide,2025-02-05 15:14:00+00:00,
+124,"Perché non fate silenzio e la smettete? Che cosa vi costa?",['Negative'],1000000001,LucaM,Rossi,Luca,2025-02-05 15:15:30+00:00,
+125,"Luca ha ragione. Smettetela, è ora.",['Very Negative'],1000000005,Chia_Valley,Gialli,Chiara,2025-02-05 15:17:00+00:00,124

@@ -1,0 +1,14 @@
+Given these messages part of a semantic cluster, define a short label describing what it represent:
+--- messages ---
+
+[messages]
+
+--- Instructions:---- 
+- Respond only with the label, nothing else
+- Do not explain any reasoning
+- Do not include any prefix like ‘Cluster’, ‘Label’ or numbering
+- The label must be in Italian 
+- The label must summarize the semantic cluster as a whole
+- The label must not exceed 6 words
+
+
