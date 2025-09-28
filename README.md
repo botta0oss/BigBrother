@@ -65,7 +65,7 @@ Sfruttando tecniche avanzate di Natural Language Processing (NLP) e Large Langua
 ## Stack Tecnologico
 
 -   **Linguaggio e Core Libraries**:
-    -   **Python 3.10+**: Linguaggio di programmazione principale.
+    -   **Python 3.9.10**: Linguaggio di programmazione principale.
     -   **Pandas**: Per la manipolazione e l'analisi efficiente di dati tabulari.
 
 -   **Acquisizione Dati e Traduzione**:
