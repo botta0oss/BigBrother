@@ -14,6 +14,8 @@
 La crescente mole di dati non strutturati provenienti dalle piattaforme di messaggistica istantanea rappresenta una sfida significativa per l'analisi investigativa, generando un sovraccarico informativo che rallenta e complica le indagini. BigBrother nasce come risposta a questa sfida: un prototipo software che orchestra una pipeline completa per trasformare conversazioni Telegram caotiche in intelligence strutturata e azionabile.
 Sfruttando tecniche avanzate di Natural Language Processing (NLP) e Large Language Models (LLM), il sistema automatizza l'acquisizione dei dati, l'analisi del sentimento, il raggruppamento per argomenti (Topic Modeling) e la presentazione dei risultati in una dashboard interattiva progettata per l'esplorazione investigativa. L'obiettivo è fornire all'analista uno strumento di supporto per identificare rapidamente pattern, attori chiave e temi critici, riducendo drasticamente i tempi di analisi manuale.
 
+Prova la demo su [bigbrother.streamlit.app](https://bigbrother.streamlit.app/).
+
 ---
 
 ## Screenshots della Dashboard
