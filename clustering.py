@@ -92,14 +92,15 @@ def starter(database, path_analisi, ollama_attivo, modello):
 
     # modello per gli embedding
     embedding_model = SentenceTransformer("paraphrase-MiniLM-L12-v2")
+    
     # salvo gli embeddings che crerebbe Bert per poi usarli nella rappresentazione con grafico
-    embeddings = embedding_model.encode(df['message'].tolist())
+    embeddings = embedding_model.encode(df['message'].tolist(),show_progress_bar=True)
     # creao un modello umap standard per rendere la dimensionalità sempre uguale (random_state= 42)
     umap_model = umap.UMAP(n_neighbors=15, n_components=2, min_dist=0.0, metric='cosine', random_state=42)
     # Uso BERTopic per eseguire il clustering 
-    topic_model = BERTopic(embedding_model = embedding_model, umap_model=umap_model)
-
-    topics, probs = topic_model.fit_transform(df['message'].tolist())
+    #topic_model = BERTopic(embedding_model = embedding_model, umap_model=umap_model)
+    topic_model = BERTopic(umap_model=umap_model)
+    topics, probs = topic_model.fit_transform(df['message'].tolist(), embeddings)
     df['cluster'] = topics
     
     ### da mantenere per grafico su dashboard

@@ -24,13 +24,11 @@ def api_config():
 
 api_id,api_hash,phone,auth_key,ollama,modello = api_config()
 
-'''
+
 print("inizio scraping...")
 #path_csv, nome_chat = sc.starter(api_id,api_hash,phone)
 print("scraping concluso")
 
-path_csv = "C:/Users/Utente/Desktop/BigBrother/BigBrother/data/TestBullismo/1.85T.csv"
-nome_chat = "Test"
 
 
 print("inizio traduzione...")
@@ -44,6 +42,7 @@ print("inizio analisi... ")
 analisi_csv, parole_csv, csv_parole_utenti, utenti_msg_csv, path_date_csv, emoji_utente_csv, polarizzazione, utente_s_csv, s_periodo_csv = An.starter(path_traduzione)
 path_cartella_csv = os.path.split(analisi_csv)[0]
 print("analisi completate...")
+
 
 
 
@@ -70,15 +69,14 @@ map_paths = {
 path_cartella = os.path.split(path_cartella_csv)[0]
 nome = os.path.split(path_cartella)[1]
 path_json = os.path.join(path_cartella,nome + '.json')
-'''
+
 
 
 if __name__ == "__main__":
-    '''
+    
     with open(path_json, "w") as f:
         json.dump(map_paths, f)
-    '''
-    path_json = "C:/Users/Utente/Desktop/BigBrother/BigBrother/data/TestBullismo/TestBullismo.json"  # per analisi, da cancellare
+    
     
     command = ["streamlit", "run", "dashboard.py", "--", path_json]
     subprocess.run(command)

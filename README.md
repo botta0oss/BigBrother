@@ -11,7 +11,8 @@
 
 ---
 
-**BigBrother** è un sistema software integrato progettato per orchestrare una pipeline completa di analisi su chat Telegram. Il sistema automatizza la raccolta, la traduzione, l'analisi semantica e statistica e la visualizzazione di messaggi testuali. Sfruttando modelli di Natural Language Processing (NLP) e Large Language Models (LLM), la piattaforma estrae insight significativi, calcola il sentiment dei messaggi, raggruppa le conversazioni per argomenti (topic modeling) e presenta i risultati in una dashboard web interattiva per l'esplorazione dei dati.
+La crescente mole di dati non strutturati provenienti dalle piattaforme di messaggistica istantanea rappresenta una sfida significativa per l'analisi investigativa, generando un sovraccarico informativo che rallenta e complica le indagini. BigBrother nasce come risposta a questa sfida: un prototipo software che orchestra una pipeline completa per trasformare conversazioni Telegram caotiche in intelligence strutturata e azionabile.
+Sfruttando tecniche avanzate di Natural Language Processing (NLP) e Large Language Models (LLM), il sistema automatizza l'acquisizione dei dati, l'analisi del sentimento, il raggruppamento per argomenti (Topic Modeling) e la presentazione dei risultati in una dashboard interattiva progettata per l'esplorazione investigativa. L'obiettivo è fornire all'analista uno strumento di supporto per identificare rapidamente pattern, attori chiave e temi critici, riducendo drasticamente i tempi di analisi manuale.
 
 ---
 
@@ -167,12 +168,11 @@
 
 ## Obiettivi della Tesi
 
--   Automatizzare la raccolta di testi da piattaforme di messaggistica.
--   Analizzare semanticamente i contenuti per estrarre informazioni rilevanti.
--   Rilevare e classificare il sentimento espresso nei messaggi.
--   Identificare i temi e gli argomenti discussi all'interno di una conversazione tramite tecniche di topic modeling non supervisionato.
--   Creare un'interfaccia interattiva per l'esplorazione e la visualizzazione dei dati analizzati.
--   Studiare applicazioni pratiche in contesti di indagini, sicurezza e intelligence.
+-   Dimostrare la fattibilità di un sistema end-to-end per automatizzare l'intero flusso di analisi: dall'acquisizione dei dati grezzi da Telegram alla loro trasformazione in informazioni strutturate e visualizzabili.
+-   Applicare e validare tecniche NLP avanzate per estrarre insight qualitativi, in particolare attraverso la Sentiment Analysis per mappare la polarità emotiva e il Topic Modeling per identificare i principali argomenti di discussione senza supervisione.
+-   Introdurre un approccio innovativo per l'interpretabilità dei risultati, utilizzando un Large Language Model (LLM) locale per generare automaticamente etichette semantiche per i cluster di messaggi, risolvendo un comune problema del topic modeling.
+-   Progettare una dashboard di visualizzazione che non sia un semplice report statico, ma uno strumento di esplorazione interattiva che guidi l'analista nella comprensione delle dinamiche relazionali e temporali della conversazione.
+-   Validare l'utilità del prototipo in un contesto operativo realistico, dimostrando come possa supportare e accelerare il lavoro di un analista nell'individuare prove e informazioni rilevanti all'interno di grandi volumi di testo.
 
 ---
 

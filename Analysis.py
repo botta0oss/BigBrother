@@ -266,7 +266,7 @@ def starter(database):
 
 
 
-database = None
+
 
 if __name__ == "__main__":
     starter(database)
