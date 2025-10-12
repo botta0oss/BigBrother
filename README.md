@@ -1,3 +1,4 @@
+![Logo_software](docs/images/software_logo.png)
 # BigBrother
 
 > **Analisi automatizzata di gruppi Telegram**  
