@@ -26,7 +26,7 @@ api_id,api_hash,phone,auth_key,ollama,modello = api_config()
 
 
 print("inizio scraping...")
-#path_csv, nome_chat = sc.starter(api_id,api_hash,phone)
+path_csv, nome_chat = sc.starter(api_id,api_hash,phone)
 print("scraping concluso")
 
 
