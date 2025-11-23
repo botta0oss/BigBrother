@@ -91,7 +91,8 @@ def name_cleaner(nome):
 
 #creazione cartella di lavoro 
 def creazione_cartella(cartella):
-	path_completo = os.path.join(os.getcwd(), cartella)
+	path = os.path.dirname(os.path.abspath(__file__))
+	path_completo = os.path.join(path, cartella)
 	try:
 		os.mkdir(path_completo)
 	except FileExistsError:
