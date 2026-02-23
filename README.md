@@ -38,7 +38,7 @@ Try the demo at [bigbrother.streamlit.app](https://bigbrother.streamlit.app/).
   ---
 
   ### 3. Detailed Analysis per User
-  *By selecting a user from the sidebar, you can explore their specific activity in detail through three different sections: most used words, personal sentiment trends, and favourite emojis.
+  *By selecting a user from the sidebar, you can explore their specific activity in detail through three different sections: most used words, personal sentiment trends, and favourite emojis.*
 
 | Most Frequently Used Words by the User | Personal Sentiment Trend | Most Used Emojis |
 | :---: | :---: | :---: |
@@ -47,19 +47,19 @@ Try the demo at [bigbrother.streamlit.app](https://bigbrother.streamlit.app/).
   ---
   
   ### 4. Search by Keywords
-  *A search function allows you to analyse the use of specific keywords, showing who uses them, how often over time and the exact context of the messages, with the searched words highlighted in red.
+  *A search function allows you to analyse the use of specific keywords, showing who uses them, how often over time and the exact context of the messages, with the searched words highlighted in red.*
   ![Keyword Search Functionality](docs/images/06_ricerca_keyword.png)
 
   ---
   
   ### 5. Analysis by Topic (Clustering)
-  *Messages are grouped into thematic clusters to identify the main topics. The dashboard displays the distribution of topics, the average sentiment of each cluster, and an interactive map to explore the semantic proximity of messages.
+  *Messages are grouped into thematic clusters to identify the main topics. The dashboard displays the distribution of topics, the average sentiment of each cluster, and an interactive map to explore the semantic proximity of messages.*
   ![Cluster Analysis](docs/images/07_cluster_analisi.png)
 
   ---
 
   ### 6. Cluster Explorer
-  *You can select a specific topic from a drop-down menu to analyse its messages, most active users and popularity over time in detail.
+  *You can select a specific topic from a drop-down menu to analyse its messages, most active users and popularity over time in detail.*
    ![Cluster Explorer](docs/images/08_esploratore_cluster.png)
 
 </details>
